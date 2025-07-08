@@ -1,3 +1,6 @@
+Requirements
+pip install -r requirements.txt
+
 # 📬 Gmail Auto-Reply Bot (Fully Built by Me – Aryan Gupta)
 
 An intelligent Gmail auto-reply system that I built **from scratch** using Python, Google APIs, and Gemini AI.  
