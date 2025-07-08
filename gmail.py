@@ -23,7 +23,7 @@ logging.basicConfig(
 )
 
 # ✅ Configure Gemini API
-genai.configure(api_key="AIzaSyCoEy8VWGgw8uJ_6DC8qQYmMGwGE3M5YRY")
+genai.configure(api_key="")
 SCOPES = ['https://www.googleapis.com/auth/gmail.modify']
 
 LABELS = {
